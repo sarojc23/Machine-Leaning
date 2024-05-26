@@ -1,2 +1,2 @@
 # Machine-Leaning
-This is my course work during phD taken at Computer science department of
+This repository contains my coursework completed during my PhD in the Computer Science department.
